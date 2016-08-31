@@ -59,12 +59,9 @@
     </div>
   </div>
 
-  <button type="submit" class="btn btn-primary btn-lg">হিসাব দেখাও</button>
+  <button type="submit" class="btn btn-primary btn-lg">হিসাব দেখুন</button>
 </form>
 </body>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
