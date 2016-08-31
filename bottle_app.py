@@ -1,4 +1,4 @@
-from bottle import route, request, template, run, post, get, debug
+from bottle import default_app, route, request, template, run, post, get, debug
 @route('/')
 def index():
     return template ('index')
@@ -113,7 +113,7 @@ def result():
 			constant=.10
 
 	if select=="6":
-		if 11<=sumFish<=20:
+		if 11<=sumFish<=20 or sumFish>20:
 			constant=.003
 		if 9<=sumFish<=10:
 			constant=.004
@@ -132,14 +132,14 @@ def result():
 		if 50000<=sumFish<=0:
 			constant=.05
 
-	
+
 	a=constant*fishRange
 	newvar=format(a, '.2f')
 
 	return template('output', name=newvar)
-	
 
-	
+
+
 
 debug(True)
 application = default_app()
