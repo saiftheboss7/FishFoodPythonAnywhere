@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Fish Food App</title>
-    <meta property="og:title" content="মাছের খাবার ক্যালকুলেটর">
-    <meta property="og:site_name" content="Easy Fish Food Calc">
-    <meta property="og:url" content="http://fatemaohona.pythonanywhere.com/">
-    <meta property="og:description" content="খুব সহজেই হিসাব করে নিন রুই, কাতলা পাঙ্গাস সহ ইত্যাদি মাছের দিনে কতটুকু খাবার দেয়া প্রয়োজন। একেক মাছের জন্য খাবার হিসাবের জন্য আর বই নিয়ে বসে পড়ার দরকার নেই!">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="http://i.imgur.com/fWfHG4l.png">
+    <meta property="og:title" content="মাছের খাবার ক্যালকুলেটর" />
+    <meta property="og:site_name" content="Easy Fish Food Calc" />
+    <meta property="og:url" content="http://fatemaohona.pythonanywhere.com/" />
+    <meta property="og:description" content="খুব সহজেই হিসাব করে নিন রুই, কাতলা পাঙ্গাস সহ ইত্যাদি মাছের দিনে কতটুকু খাবার দেয়া প্রয়োজন। একেক মাছের জন্য খাবার হিসাবের জন্য আর বই নিয়ে বসে পড়ার দরকার নেই!" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://i.imgur.com/fWfHG4l.png" />
     <meta property="fb:admins" content="https://www.facebook.com/saiftheboss7" />
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.3/css/bootstrap.min.css" integrity="sha384-MIwDKRSSImVFAZCVLtU0LMDdON6KVCrZHyVQQj6e8wIEJkW4tvwqXrbMIya1vriY" crossorigin="anonymous">
