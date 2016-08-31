@@ -30,6 +30,7 @@
       <option value="3">থাই পুটি</option>
       <option value="3">কালিবাউস</option>
       <option value="3">সিলভার</option>
+      <option value="8">শিং</option>
       <option value="4">গলদা চিংড়ি</option>
       <option value="5">বাগদা চিংড়ি</option>
       <option value="6">পাঙ্গাস</option>

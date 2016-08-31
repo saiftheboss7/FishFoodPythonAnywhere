@@ -82,35 +82,35 @@ def result():
 
 	if select=="3":
 		if 1000<=sumFish<=150000:
-			constant=.15
+			constant=.00011
 		if 200<=sumFish<=999:
-			constant=.1
+			constant=.00050
 		if 100<=sumFish<=199:
-			constant=.05
+			constant=.00050
 		if 20<=sumFish<=99:
-			constant=.04
+			constant=.00200
 		if 2<=sumFish<=19:
-			constant=0.03
+			constant=0.01500
 
 	if select=="4":
 		if 20000<=sumFish<=150000:
-			constant=.1
+			constant=.00001
 		if 1000<=sumFish<=19999:
-			constant=.08
+			constant=.00008
 		if 500<=sumFish<=999:
-			constant=.07
+			constant=.00014
 		if 0<=sumFish<=499:
-			constant=.05
+			constant=.00417
 
 	if select=="5":
 		if 20000<=sumFish<=150000:
-			constant=.35
+			constant=.00002
 		if 1000<=sumFish<=19999:
-			constant=.25
+			constant=.00025
 		if 500<=sumFish<=999:
-			constant=.15
+			constant=.00030
 		if 0<=sumFish<=499:
-			constant=.10
+			constant=.01667
 
 	if select=="6":
 		if 11<=sumFish<=20 or sumFish>20:
@@ -129,8 +129,21 @@ def result():
 			constant=.016
 
 	if select=="7":
-		if 50000<=sumFish<=0:
-			constant=.05
+		if 0<=sumFish<=50000:
+			constant=.0125
+
+	if select=="8":
+		if 5000<=sumFish<=7000:
+			constant=.00004
+		if 1000<=sumFish<=4999:
+			constant=.00015
+		if 300<=sumFish<=999:
+			constant=.00033
+		if 70<=sumFish<=299:
+			constant=.00071
+		if 50<=sumFish<=69:
+			constant=.00060
+
 
 
 	a=constant*fishRange
