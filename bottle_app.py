@@ -119,6 +119,8 @@ def result():
 			constant=.004
 		if 7<=sumFish<=8:
 			constant=.006
+		if 5<=sumFish<=6:
+			constant=.008
 		if sumFish==4:
 			constant=.01
 		if sumFish==3:
