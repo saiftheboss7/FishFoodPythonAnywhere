@@ -61,10 +61,7 @@
 
   <button type="submit" class="btn btn-primary btn-lg">হিসাব দেখাও</button>
 </form>
-  
-<div class="bg-primary">Developed by <a href="http://facebook.com/saiftheboss7" target="_blank">Saif Hassan</a></div>
-<div class="bg-success">Intellectual Property <a href="http://facebook.com/saiftheboss7" target="_blank">Shahanul Islam</a></div>  
-  </body>
+</body>
 </br>
 </br>
 </br>
